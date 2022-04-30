@@ -13,7 +13,6 @@ https://programmers.co.kr/learn/courses/30/lessons/12937
 </br>
 
 ## 입출력 예
----
 num|return
 ---|---|
 3|"Odd"
@@ -21,5 +20,4 @@ num|return
 </br>
 
 ## 문제 풀이
----
 입력된 숫자를 2로 나눴을 때 나머지가 1이면 홀수, 0이면 짝수   
