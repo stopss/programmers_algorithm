@@ -26,5 +26,5 @@ absolutes|signs|result
 </br>
 
 ## 문제 풀이
-signs[i]가 True 인 경우 더하고, signs[i]가 False인 경우 뺀 값을 리턴한다.
+signs[i]가 True 인 경우 더하고, signs[i]가 False인 경우 뺀 값을 리턴한다.   
 </br>
